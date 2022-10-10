@@ -1,0 +1,12 @@
+C:\Users\work\Desktop\GitLabSniffer\bin\Release\GitLabSniffer.exe.config
+C:\Users\work\Desktop\GitLabSniffer\bin\Release\GitLabSniffer.exe
+C:\Users\work\Desktop\GitLabSniffer\bin\Release\GitLabSniffer.pdb
+C:\Users\work\Desktop\GitLabSniffer\obj\Release\GitLabSniffer.csproj.AssemblyReference.cache
+C:\Users\work\Desktop\GitLabSniffer\obj\Release\GitLabSniffer.csproj.SuggestedBindingRedirects.cache
+C:\Users\work\Desktop\GitLabSniffer\obj\Release\GitLabSniffer.mainWindow.resources
+C:\Users\work\Desktop\GitLabSniffer\obj\Release\GitLabSniffer.Properties.Resources.resources
+C:\Users\work\Desktop\GitLabSniffer\obj\Release\GitLabSniffer.csproj.GenerateResource.cache
+C:\Users\work\Desktop\GitLabSniffer\obj\Release\GitLabSniffer.csproj.CoreCompileInputs.cache
+C:\Users\work\Desktop\GitLabSniffer\obj\Release\GitLabSniffer.exe
+C:\Users\work\Desktop\GitLabSniffer\obj\Release\GitLabSniffer.pdb
+C:\Users\work\Desktop\GitLabSniffer\obj\Release\GitLabSniffer.chartsViewer.resources
